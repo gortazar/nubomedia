@@ -7,7 +7,7 @@ developer-guidelines
 
 This is an integration repository containing all NUBOMEDIA modules.
 
-In order to clone this repository the follow these steps:
+In order to clone this git repository and all its submodules:
 
 ```
 git clone --recursive https://github.com/nubomedia/nubomedia.git
