@@ -1,0 +1,144 @@
+[submodule "doc-kurento"]
+	path = doc-kurento
+	url = https://github.com/nubomedia/doc-kurento
+[submodule "kms-plugin-sample"]
+	path = kms-plugin-sample
+	url = https://github.com/nubomedia/kms-plugin-sample
+[submodule "kms-cmake-utils"]
+	path = kms-cmake-utils
+	url = https://github.com/nubomedia/kms-cmake-utils
+[submodule "kms-jsonrpc"]
+	path = kms-jsonrpc
+	url = https://github.com/nubomedia/kms-jsonrpc
+[submodule "kms-core"]
+	path = kms-core
+	url = https://github.com/nubomedia/kms-core
+[submodule "kurento-maven-plugin"]
+	path = kurento-maven-plugin
+	url = https://github.com/nubomedia/kurento-maven-plugin
+[submodule "kms-elements"]
+	path = kms-elements
+	url = https://github.com/nubomedia/kms-elements
+[submodule "kurento-module-creator"]
+	path = kurento-module-creator
+	url = https://github.com/nubomedia/kurento-module-creator
+[submodule "kms-filters"]
+	path = kms-filters
+	url = https://github.com/nubomedia/kms-filters
+[submodule "kurento-java"]
+	path = kurento-java
+	url = https://github.com/nubomedia/kurento-java
+[submodule "kurento-tutorial-java"]
+	path = kurento-tutorial-java
+	url = https://github.com/nubomedia/kurento-tutorial-java
+[submodule "kurento-client-js"]
+	path = kurento-client-js
+	url = https://github.com/nubomedia/kurento-client-js
+[submodule "kurento-jsonrpc-js"]
+	path = kurento-jsonrpc-js
+	url = https://github.com/nubomedia/kurento-jsonrpc-js
+[submodule "kurento-utils-js"]
+	path = kurento-utils-js
+	url = https://github.com/nubomedia/kurento-utils-js
+[submodule "kurento-tutorial-js"]
+	path = kurento-tutorial-js
+	url = https://github.com/nubomedia/kurento-tutorial-js
+[submodule "kurento-tutorial-node"]
+	path = kurento-tutorial-node
+	url = https://github.com/nubomedia/kurento-tutorial-node
+[submodule "kms-chroma"]
+	path = kms-chroma
+	url = https://github.com/nubomedia/kms-chroma
+[submodule "kms-crowddetector"]
+	path = kms-crowddetector
+	url = https://github.com/nubomedia/kms-crowddetector
+[submodule "kms-platedetector"]
+	path = kms-platedetector
+	url = https://github.com/nubomedia/kms-platedetector
+[submodule "kms-pointerdetector"]
+	path = kms-pointerdetector
+	url = https://github.com/nubomedia/kms-pointerdetector
+[submodule "kms-opencv-plugin-sample"]
+	path = kms-opencv-plugin-sample
+	url = https://github.com/nubomedia/kms-opencv-plugin-sample
+[submodule "kurento-room"]
+	path = kurento-room
+	url = https://github.com/nubomedia/kurento-room
+[submodule "jsoncpp"]
+	path = jsoncpp
+	url = https://github.com/nubomedia/jsoncpp
+[submodule "kurento-tree"]
+	path = kurento-tree
+	url = https://github.com/nubomedia/kurento-tree
+[submodule "kms-datachannelexample"]
+	path = kms-datachannelexample
+	url = https://github.com/nubomedia/kms-datachannelexample
+[submodule "kurento-qa-pom"]
+	path = kurento-qa-pom
+	url = https://github.com/nubomedia/kurento-qa-pom
+[submodule "doc-kurento-repository"]
+	path = doc-kurento-repository
+	url = https://github.com/nubomedia/doc-kurento-repository
+[submodule "doc-kurento-jsonrpc"]
+	path = doc-kurento-jsonrpc
+	url = https://github.com/nubomedia/doc-kurento-jsonrpc
+[submodule "doc-kurento-room"]
+	path = doc-kurento-room
+	url = https://github.com/nubomedia/doc-kurento-room
+[submodule "doc-kurento-tree"]
+	path = doc-kurento-tree
+	url = https://github.com/nubomedia/doc-kurento-tree
+[submodule "promisecallback"]
+	path = promisecallback
+	url = https://github.com/nubomedia/promisecallback
+[submodule "NUBOMEDIA-VCA"]
+	path = NUBOMEDIA-VCA
+	url = https://github.com/nubomedia/NUBOMEDIA-VCA
+[submodule "NUBOMEDIA-VCA-JS-API"]
+	path = NUBOMEDIA-VCA-JS-API
+	url = https://github.com/nubomedia/NUBOMEDIA-VCA-JS-API
+[submodule "NUBOMEDIA-VCA-NODE-API"]
+	path = NUBOMEDIA-VCA-NODE-API
+	url = https://github.com/nubomedia/NUBOMEDIA-VCA-NODE-API
+[submodule "DOC-NUBOMEDIA-VCA"]
+	path = DOC-NUBOMEDIA-VCA
+	url = https://github.com/nubomedia/DOC-NUBOMEDIA-VCA
+[submodule "kms-monitoring-java"]
+	path = kms-monitoring-java
+	url = https://github.com/nubomedia/kms-monitoring-java
+[submodule "nubomedia-nova-docker"]
+	path = nubomedia-nova-docker
+	url = https://github.com/nubomedia/nubomedia-nova-docker
+[submodule "nubomedia-autonomous-installer"]
+	path = nubomedia-autonomous-installer
+	url = https://github.com/nubomedia/nubomedia-autonomous-installer
+[submodule "nubomedia-graphedit"]
+	path = nubomedia-graphedit
+	url = https://github.com/nubomedia/nubomedia-graphedit
+[submodule "armodule"]
+	path = armodule
+	url = https://github.com/nubomedia/armodule
+[submodule "kurento-tree-client-android"]
+	path = kurento-tree-client-android
+	url = https://github.com/nubomedia/kurento-tree-client-android
+[submodule "kurento-room-client-android"]
+	path = kurento-room-client-android
+	url = https://github.com/nubomedia/kurento-room-client-android
+[submodule "jsonrpc-ws-android"]
+	path = jsonrpc-ws-android
+	url = https://github.com/nubomedia/jsonrpc-ws-android
+[submodule "webrtcpeer-android"]
+	path = webrtcpeer-android
+	url = https://github.com/nubomedia/webrtcpeer-android
+[submodule "msdata"]
+	path = msdata
+	url = https://github.com/nubomedia/msdata
+[submodule "nubo-test-tree"]
+	path = nubo-test-tree
+	url = https://github.com/nubomedia/nubo-test-tree
+[submodule "msdatademopaasgraph"]
+	path = msdatademopaasgraph
+	url = https://github.com/nubomedia/msdatademopaasgraph
+[submodule "Kurento-iOS"]
+	path = Kurento-iOS
+	url = https://github.com/nubomedia/Kurento-iOS
